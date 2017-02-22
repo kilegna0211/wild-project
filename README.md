@@ -1,1 +1,3 @@
-# wild-jroject
+# wild-Project
+
+Comment installer ce projet ?
